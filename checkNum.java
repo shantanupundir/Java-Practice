@@ -23,6 +23,5 @@ public class checkNum {
     System.out.println("Enter a number: ");
     int a = sc.nextInt();
     obj.num(a);
-    
   }
 }
