@@ -10,6 +10,5 @@ public class largestDigit {
       num = num/10;
     }
     System.out.println("Largest digit in the number is: " + largest);
-
   }
 }
