@@ -19,7 +19,6 @@ public class fibonacciTillN {
       if (temp > largestNumGenerated) {
         largestNumGenerated = temp;
       }
-
     }
     System.out.println("Sum of Fibonacci series till " + n + ": " + sum);
     System.out.println("Largest number generated in the series: " + largestNumGenerated);
